@@ -1,4 +1,7 @@
 inspecode:
+  experimental:
+    base-jobs:
+        main: 1840
   fossid: default
   
-# Update 2023/05/16 15:24
+# Update 2023/05/16 15:
